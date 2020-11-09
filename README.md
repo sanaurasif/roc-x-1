@@ -11,9 +11,14 @@ git clone https://github.com/sanaurasif/roc-x
 cd roc-x
 
 python main.py
+.
 
-
-
+.
+.
+.
+.
+.
+.
 
 We Are On : 
 
