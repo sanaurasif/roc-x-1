@@ -1,4 +1,4 @@
-Commands:
+Commands For First Time:
 
 pkg update && pkg upgrade
 
@@ -6,7 +6,10 @@ pkg install python -y
 
 pkg install git -y
 
-git clone https://github.com/sanaurasif/roc-x
+git clone https://github.com/RootOfCyber/roc-x
+
+
+Commands For All Time :
 
 cd roc-x
 
